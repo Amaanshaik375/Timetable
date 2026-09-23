@@ -1,28 +1,28 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f4f8;
+    font-family: Arial;
+    background-color: lightgray;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 h1 {
-    color: #243b53;
+    color: darkblue;
 }
 
 h3 {
-    color: #52606d;
+    color: gray;
 }
 
 table {
     width: 95%;
-    margin: 30px auto;
+    margin: 20px auto;
     border-collapse: collapse;
     background-color: white;
 }
 
 th, td {
-    border: 2px solid #333;
-    padding: 15px 10px;
+    border: 1px solid black;
+    padding: 12px;
     text-align: center;
 }
 
@@ -35,30 +35,29 @@ td {
     font-size: 14px;
 }
 
-/* Subject colours */
 
 .java {
-    background-color: #ffd6d6;
+    background-color: lightpink;
 }
 
 .python {
-    background-color: #fff0b3;
+    background-color: lightyellow;
 }
 
 .maths {
-    background-color: #d6eaff;
+    background-color: lightblue;
 }
 
 .web {
-    background-color: #d8f3dc;
+    background-color: lightgreen;
 }
 
 .dbms {
-    background-color: #eadcff;
+    background-color: #e6d5f7;
 }
 
 .os {
-    background-color: #ffd9b8;
+    background-color: #ffd9b3;
 }
 
 .lab {
@@ -66,11 +65,11 @@ td {
 }
 
 .sports {
-    background-color: #f7d6e0;
+    background-color: #f5d6e0;
 }
 
 .project {
-    background-color: #d9d9d9;
+    background-color: lightgray;
 }
 
 .break {
